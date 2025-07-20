@@ -5,5 +5,5 @@ This project aims to predict an employee's expected salary based on various pers
 
 
  ### 🚀 Live App Link
- https://employee-salary-prediction-baslwtyq8gebfhnljzikqz.streamlit.app/
+ https://employee-salary-prediction-baslwtyq8gebfhnljzikqz.streamlit.app/ 
 
